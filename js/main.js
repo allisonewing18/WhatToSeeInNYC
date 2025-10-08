@@ -4,7 +4,7 @@ const b = 0.3
 console.log(a === b);
 
 if (true) {
-    let x = 10;
+    let x = 15;
     const y = 20;
 }
 console.log(x);
