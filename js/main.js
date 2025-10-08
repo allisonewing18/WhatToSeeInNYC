@@ -1,2 +1,4 @@
 console.log("Hello World");
-console.log((0.1+0.3)===0.2);
+const a = 0.1 + 0.2
+const b = 0.3
+console.log(a === b);
