@@ -3,7 +3,6 @@ const data =
     sections: 
     [
         {
-            uniqueId: "header",
             title: "What To See in NYC",
             articles:
             [
@@ -80,7 +79,6 @@ const data =
             ]
         },
         {
-            uniqueId: "footer",
             title: "footer",
             articles:
             [
