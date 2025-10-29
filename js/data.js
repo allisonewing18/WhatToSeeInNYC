@@ -14,7 +14,7 @@ const data =
         },
 
         {
-            uniqueId: "section 1",
+            uniqueId: "section1",
             title: "Must Sees",
             articles: 
             [
@@ -39,7 +39,7 @@ const data =
             ]
         },
         {
-            uniqueId: "section 2",
+            uniqueId: "section2",
             title: "Mostly Positive",
             articles: 
             [
@@ -59,7 +59,7 @@ const data =
             ]
         },
         {
-            uniqueId: "section 3",
+            uniqueId: "section3",
             title: "Mixed Reviews",
             articles: 
             [
